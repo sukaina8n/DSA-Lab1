@@ -1,2 +1,5 @@
 # DSA-Lab1
-## Team: Sukaina (developer)
+## Team: 
+Sukaina (developer)
+GitHub User (project lead)
+ 
