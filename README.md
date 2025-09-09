@@ -1,2 +1,2 @@
 # DSA-Lab1
-## Project Contributors:Sukaina
+## Team: Sukaina (developer)
