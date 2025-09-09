@@ -1,2 +1,2 @@
 # DSA-Lab1
-## Project Contributors: GitHub User
+## Team: GitHub User (project lead)
